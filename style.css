@@ -1,0 +1,108 @@
+/* body*/
+body {
+    background-image: url('images/bistroback.jpg'); background-size: 100%;  
+}
+
+/*navbar*/
+.custom-nav {
+    background-color: rgb(247, 223, 193);opacity:85%;
+    padding:10px;
+    color: palevioletred;
+    justify-content: space-between !important;
+}
+ .navbar-brand {
+     color:palevioletred !important;
+     font: 400 95px/1.9 'Rancho', Georgia, serif;
+     font-size: 75px !important;  
+     text-shadow: 3px 3px white
+ }   
+
+ .location {
+    font: 400 17px/1.6 'Gudea', Verdana, Helvetica, sans-serif;
+    font-size: 30px !important;
+    text-shadow: none
+
+ }
+ .navlinks {
+    font: 400 17px/1.6 'Gudea', Verdana, Helvetica, sans-serif;
+    font-size: 20px !important;  
+ }
+/* section 1 */
+.section1 {
+    color: palevioletred;   
+    padding: 250px;
+    background-repeat: no-repeat; background-size: cover; opacity: 75%;
+    
+}
+.title {
+    font: 400 95px/1.9 'Rancho', Georgia, serif;
+    font-size: 75px !important;
+    font-weight: bold !important;
+    text-shadow: 3px 3px white;
+}
+
+.custom-button {
+    background-color:rgb(247, 223, 193);
+    color: palevioletred;
+    padding: 8px 10px;
+    border-radius: 15px;
+    border: 4px solid palevioletred;
+    cursor:pointer;
+    font: 400 17px/1.6 'Gudea', Verdana, Helvetica, sans-serif;
+    font-size: 20px !important;
+    
+}
+
+/* section 2*/
+.section2 {
+    background-color: rgb(247, 223, 193);opacity:85%;
+    color:palevioletred;
+    padding:10px;0px;20px;0px;
+}
+.custimage {
+    padding-bottom: 20px;
+     
+}
+.title1 {
+    font: 400 95px/1.9 'Rancho', Georgia, serif;
+    font-size: 60px !important;
+    
+}
+  
+.menu-button {
+    background-color:rgb(247, 223, 193);
+    color: palevioletred;
+    padding: 8px 10px;
+    border-radius: 15px;
+    border: 4px solid palevioletred;
+    font: 400 17px/1.6 'Gudea', Verdana, Helvetica, sans-serif;
+    cursor:pointer;
+    font-size: 15px !important;
+    
+}
+/* section 3 */
+.section3 {
+    background-color:rgb(247, 223, 193);opacity:95%;
+    color:palevioletred;
+    padding:10px;
+
+}
+p{font: 400 17px/1.6 'Gudea', Verdana, Helvetica, sans-serif;
+
+}
+.title2 {
+    font: 400 95px/1.9 'Rancho', Georgia, serif;
+    font-size: 40px !important; 
+    
+}
+.star {
+    color:yellow; !important;
+}
+/* section 4 */
+.section4 {
+    background-color: rgb(247, 223, 193);
+    color:palevioletred;
+}
+p{font: 400 17px/1.6 'Gudea', Verdana, Helvetica, sans-serif;
+
+}
